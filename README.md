@@ -1,52 +1,83 @@
-# Hi there, I'm Moemen Ayman 👋
+```md
+# Hi 👋, I'm Moemen Ayman
 
-🎓 Computer Science Student at Benha National University, Egypt.
+🎓 **Computer Science Student** at Benha National University, Egypt
 
-💡 Passionate about Artificial Intelligence, Software Engineering, and Backend Development.
+🤖 **Aspiring AI Engineer | Software Developer**
 
-🌱 Currently learning:
-- Machine Learning
-- Data Structures & Algorithms
-- Python
-- SQL
-- Git & GitHub
+💡 Passionate about Artificial Intelligence, Machine Learning, Software Engineering, Backend Development, and Problem Solving.
 
-## 🛠️ Tech Stack
+🌱 Currently learning **Machine Learning**, **Data Structures & Algorithms**, and **Software Engineering**.
 
-**Languages**
+💼 Open to **AI** and **Software Engineering Internship** opportunities.
+
+📫 Reach me at: **moemen.ayman8@gmail.com**
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 🤖 Interested in AI, Machine Learning, and Software Development
+- 💻 Enjoy building real-world projects and solving problems
+- 📚 Always learning new technologies and improving my skills
+
+---
+
+## 💻 Tech Stack
+
+### Languages
 - Python
 - C++
-- SQL
+- Java
 - C
+- SQL
 
-**Tools & Technologies**
+### Databases
+- Oracle Database
+- MySQL
+
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
 - Oracle SQL Developer
 
-## 🚀 Projects
+---
 
-### Marketing Database System
-- Designed and implemented a relational database system.
-- Built SQL queries, ER diagrams, and normalized tables.
+## 🚀 Featured Projects
 
-### AI & Machine Learning Projects
-- Python-based AI projects.
-- Data preprocessing and model training.
-- Machine learning experiments.
+### 📊 Marketing Database System
+- Designed a relational database system.
+- Created ER diagrams.
+- Implemented SQL queries.
+- Applied database normalization techniques.
+
+### 🤖 AI & Machine Learning Projects
+- Data preprocessing.
+- Machine Learning model training.
+- Model evaluation and experimentation.
+
+> More projects coming soon...
+
+---
 
 ## 🎯 Goals for 2026
 
-- Get an AI Internship.
-- Build impactful AI projects.
-- Contribute to Open Source.
-- Strengthen Data Structures & Algorithms skills.
-
-## 📫 Connect with me
-
-- LinkedIn: www.linkedin.com/in/moemen-ayman
-- Email: moemen.ayman8@gmail.com
+- ✅ Secure an AI Internship
+- 🚀 Build high-quality AI & Software projects
+- 🌍 Contribute to Open Source
+- 📈 Strengthen Data Structures & Algorithms
+- 🧠 Master Machine Learning
 
 ---
-⭐ Thanks for visiting my profile!
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/moemen-ayman
+- 📧 Email: moemen.ayman8@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
+```
