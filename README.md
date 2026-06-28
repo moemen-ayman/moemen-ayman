@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Moemen Ayman 👋
 
-<!--
-**moemen-ayman/moemen-ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Benha National University, Egypt.
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Software Engineering, and Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Machine Learning
+- Data Structures & Algorithms
+- Python
+- SQL
+- Git & GitHub
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++
+- SQL
+- C
+
+**Tools & Technologies**
+- Git
+- GitHub
+- VS Code
+- Oracle SQL Developer
+
+## 🚀 Projects
+
+### Marketing Database System
+- Designed and implemented a relational database system.
+- Built SQL queries, ER diagrams, and normalized tables.
+
+### AI & Machine Learning Projects
+- Python-based AI projects.
+- Data preprocessing and model training.
+- Machine learning experiments.
+
+## 🎯 Goals for 2026
+
+- Get an AI Internship.
+- Build impactful AI projects.
+- Contribute to Open Source.
+- Strengthen Data Structures & Algorithms skills.
+
+## 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/moemen-ayman
+- Email: moemen.ayman8@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
